@@ -1,6 +1,6 @@
-import setuptools, find_packages
+from setuptools import setup, find_packages
 
-setuptools.setup(
+setup(
     name="vertex-magic",
     version='0.0.1',
     url='https://github.com/mblanc/vertex-magic',
